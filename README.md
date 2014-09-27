@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git-remoto-exemplo
 
 Neste exemplo, duas pessoas irão trabalhar em conjunto.
@@ -9,3 +10,6 @@ Neste exemplo, duas pessoas irão trabalhar em conjunto.
 
 ## Pessoa A: 
 ## Pessoa B: Roger Leonardo Garay
+=======
+# Minha tese
+>>>>>>> aldo/master
