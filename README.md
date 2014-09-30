@@ -8,4 +8,4 @@ Neste exemplo, duas pessoas irão trabalhar em conjunto.
   - A pessoa A fará um fetch, um merge, e um push.
 
 ## Pessoa A: Yuliana Contreras Conche
-## Pessoa B: 
+## Pessoa B: Roger L Garay Avendano
